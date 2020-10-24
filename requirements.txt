@@ -1,0 +1,3 @@
+pytesseract
+python-docx
+pdf2image
